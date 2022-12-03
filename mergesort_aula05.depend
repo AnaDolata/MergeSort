@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670102522 source:c:\users\anado\documents\codeblocks\mergesort_aula05\main.c
+	<stdio.h>
+	<stdlib.h>
+
